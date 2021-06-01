@@ -3,10 +3,7 @@ Entity for the table
 Author: Emihle Menzo 218337035
 Date: 31 May 2021
  */
-
 package za.ac.cput.entity.coffeeshop;
-
-import za.ac.cput.entity.Payment.CardPayment;
 
 public class Table {
     private String tableType;
