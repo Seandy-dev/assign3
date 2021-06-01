@@ -1,5 +1,10 @@
 package za.ac.cput.entity.Users;
 
+/* Customer.java
+ Entity for the Customer
+ Author: Sindiswa Nomusa Mbhele (219279616)
+ Date: 01 June 2021
+*/
 public class Customer {
 
 
