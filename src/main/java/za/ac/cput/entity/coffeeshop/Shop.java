@@ -18,7 +18,7 @@ public class Shop {
                 "name='" + name + '\'' +
                 '}';
     }
-
+  //inner class
     public static class Builder {
         private String name;
 
