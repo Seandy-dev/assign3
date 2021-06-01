@@ -34,10 +34,7 @@ public class Shop {
             return this;
         }
 
-        public Shop build() {
-            return new Shop(this);
 
-        }
 
     }
 }
