@@ -1,7 +1,7 @@
 /*Table.java
 Entity for the table
 Author: Emihle Menzo 218337035
-Date: 31 May 2021
+Date:  1 June 2021
  */
 package za.ac.cput.entity.coffeeshop;
 
