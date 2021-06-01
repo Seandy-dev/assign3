@@ -1,4 +1,4 @@
-/*Table.java
+/*TableClass.java
 Entity for the table
 Author: Emihle Menzo 218337035
 Date:  1 June 2021

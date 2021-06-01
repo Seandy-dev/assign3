@@ -1,4 +1,4 @@
-/*CardPayment.java
+/*CardPaymentClass.java
 Entity for the CardPayment
 Author: Emihle Menzo 218337035
 Date: 1 June 2021
